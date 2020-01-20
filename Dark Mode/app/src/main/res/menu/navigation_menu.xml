@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/activity1"
+        android:icon="@drawable/ic_1"
+        android:title="Activity 1"></item>
+    <item
+        android:id="@+id/activity2"
+        android:icon="@drawable/ic_2"
+        android:title="Activity 2"></item>
+
+    <item
+        android:id="@+id/activity3"
+        android:icon="@drawable/ic_3"
+        android:title="Activity 3"></item>
+
+</menu>
+
