@@ -1,3 +1,1 @@
-![](Screenshot/1.png)
-![](Screenshot/2.png)
-![](Screenshot/3.png)
+<img scr="Screenshot/1.png">
