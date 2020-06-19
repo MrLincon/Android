@@ -5,6 +5,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/colorBackground"
     android:elevation="0dp"
+    app:layout_scrollFlags="scroll|enterAlways"
     app:popupTheme="@style/PopupOverlay"
     android:minHeight="?attr/actionBarSize">
 
